@@ -1,0 +1,28 @@
+# ===== DATA (provided via Drive, do NOT push) =====
+data_raw/
+data_clean/
+outputs/
+*.csv
+*.xlsx
+*.geojson
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.gpkg
+*.tif
+*.txt
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Python =====
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
