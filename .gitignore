@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Data
+data/raw/**
+data/clean/**
+
+# Outputs
+outputs/**
+!outputs/README.md
