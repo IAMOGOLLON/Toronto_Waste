@@ -85,7 +85,7 @@ project structure
 
 - Local Storage
 
-##Large raw and cleaned datasets are not stored in GitHub due to file size and versioning constraints. These files must be stored locally in the corresponding data/raw/ and data/clean/ folders.
+## Large raw and cleaned datasets are not stored in GitHub due to file size and versioning constraints. These files must be stored locally in the corresponding data/raw/ and data/clean/ folders.
 
 # This includes files such as:
 
