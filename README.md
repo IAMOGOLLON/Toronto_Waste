@@ -85,7 +85,7 @@ project structure
 
 - Local Storage
 
-## Large raw and cleaned datasets are not stored in GitHub due to file size and versioning constraints. These files must be stored locally in the corresponding data/raw/ and data/clean/ folders.
+## Large raw andc leaned datasets are not stored in GitHub due to file size and versioning constraints. These files must be stored locally in the corresponding data/raw/ and data/clean/ folders.
 
 # This includes files such as:
 
@@ -152,3 +152,5 @@ project structure
 ## Notes
 
 This repository is intended for collaborative academic work.
+[Large raw andc leaned datasets:](https://guscanada-my.sharepoint.com/:f:/g/personal/ingrid_mogollon2124_myunfc_ca/IgDDkzgRzMjAQbJEUM62njdEAbS-v3phFZBJmAjaRaJdADQ?e=mo1fNl)
+[Dashboard Power BI:]([https://...](https://app.powerbi.com/groups/me/reports/3e83324c-e212-4903-bea6-ad42762106d7/60b456a10b81a318205d?experience=power-bi) 
