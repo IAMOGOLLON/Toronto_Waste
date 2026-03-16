@@ -7,5 +7,4 @@ data/raw/**
 data/clean/**
 
 # Outputs
-outputs/**
-!outputs/README.md
+outputs/grid_250m_master.csv
