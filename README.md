@@ -66,4 +66,89 @@ TORONTO_WASTE/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+## Data Management Policy
 
+#GitHub
+
+This repository contains:
+
+project structure
+
+- Python scripts
+
+- Jupyter notebooks
+
+- selected analysis outputs
+
+- documentation
+
+- Local Storage
+
+# Large raw and cleaned datasets are not stored in GitHub due to file size and versioning constraints. These files must be stored locally in the corresponding data/raw/ and data/clean/ folders.
+
+## This includes files such as:
+
+- CSV
+
+- TXT
+
+- GPKG
+
+- SHP, DBF, SHX, PRJ
+
+## other large intermediate spatial outputs
+
+# All team members are expected to:
+
+- place the shared raw datasets into the data/raw/ folder
+
+- generate cleaned and integrated files locally in data/clean/
+
+- run notebooks and scripts locally
+
+- This helps maintain:
+
+- a lightweight repository
+
+- fewer file size issues
+
+- a consistent structure across all team members
+
+## Main Workflow
+
+# The project workflow is organized into the following stages:
+
+- load raw datasets
+
+- clean and standardize each data source
+
+- integrate layers into a common 250 m grid structure
+
+- generate spatial outputs for analysis
+
+- conduct final analytical work in notebooks
+
+# Tools and Technologies
+
+- Python 3.x
+
+- GeoPandas
+
+- Pandas
+
+- NumPy
+
+- Shapely
+
+- Jupyter Notebook
+
+- VS Code
+
+- GitHub
+
+- Power BI
+
+## Notes
+
+This repository is intended for collaborative academic work.
